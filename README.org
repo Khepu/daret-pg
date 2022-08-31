@@ -1,0 +1,3 @@
+# daret-pg
+
+Data Retention Policy Postgres Extension
