@@ -1,0 +1,5 @@
+comment = 'daret_pg:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/daret_pg'
+relocatable = false
+superuser = false
